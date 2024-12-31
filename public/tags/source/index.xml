@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source on My blog</title>
+    <link>http://localhost:1313/tags/source/</link>
+    <description>Recent content in Source on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Mar 2024 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BÀI 5 - COLLECTIONS FRAMEWORK </title>
+      <link>http://localhost:1313/post/figure-shortcode/</link>
+      <pubDate>Wed, 13 Mar 2024 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/figure-shortcode/</guid>
+      
+        <description><p>Nội dung bài học:</p>
+<ul>
+<li>ArrayList, LinkedList, HashMap, HashSet, TreeMap, v.v.</li>
+<li>Khái niệm về Generics.</li>
+<li>Cách sử dụng và so sánh hiệu suất.</li>
+</ul></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JAVA on My blog</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in JAVA on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Dec 2024 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BÀI 9: XỬ LÝ NGOẠI LỆ</title>
+      <link>http://localhost:1313/post/notice-shortcode/</link>
+      <pubDate>Tue, 24 Dec 2024 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/notice-shortcode/</guid>
+      
+        <description><p>Nội dung bài học:</p>
+<ul>
+<li>Phân loại: Checked và Unchecked Exception.</li>
+<li>Sử dụng try-catch-finally.</li>
+<li>Tự định nghĩa ngoại lệ (Custom Exception).</li>
+</ul></description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 5 - COLLECTIONS FRAMEWORK </title>
+      <link>http://localhost:1313/post/figure-shortcode/</link>
+      <pubDate>Wed, 13 Mar 2024 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/figure-shortcode/</guid>
+      
+        <description><p>Nội dung bài học:</p>
+<ul>
+<li>ArrayList, LinkedList, HashMap, HashSet, TreeMap, v.v.</li>
+<li>Khái niệm về Generics.</li>
+<li>Cách sử dụng và so sánh hiệu suất.</li>
+</ul></description>
+      
+    </item>
+    
+  </channel>
+</rss>

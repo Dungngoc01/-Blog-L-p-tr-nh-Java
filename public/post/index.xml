@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Dec 2024 21:47:41 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BÀI 9: XỬ LÝ NGOẠI LỆ</title>
+      <link>http://localhost:1313/post/notice-shortcode/</link>
+      <pubDate>Tue, 24 Dec 2024 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/notice-shortcode/</guid>
+      
+        <description><p>Nội dung bài học:</p>
+<ul>
+<li>Phân loại: Checked và Unchecked Exception.</li>
+<li>Sử dụng try-catch-finally.</li>
+<li>Tự định nghĩa ngoại lệ (Custom Exception).</li>
+</ul></description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 8 - LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG</title>
+      <link>http://localhost:1313/post/series-part-2/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/series-part-2/</guid>
+      
+        <description>A brief guide to how to setup series part 2</description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 7 - LẬP TRÌNH ĐA LUỒNG</title>
+      <link>http://localhost:1313/post/series-part-1/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/series-part-1/</guid>
+      
+        <description>A brief guide to how to setup series part 1</description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 6 - XỬ LÝ MẢNG VÀ CHUỖI</title>
+      <link>http://localhost:1313/post/redirect/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/redirect/</guid>
+      
+        <description>Usage of redirectUrl</description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 5 - COLLECTIONS FRAMEWORK </title>
+      <link>http://localhost:1313/post/figure-shortcode/</link>
+      <pubDate>Wed, 13 Mar 2024 21:47:41 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/figure-shortcode/</guid>
+      
+        <description><p>Nội dung bài học:</p>
+<ul>
+<li>ArrayList, LinkedList, HashMap, HashSet, TreeMap, v.v.</li>
+<li>Khái niệm về Generics.</li>
+<li>Cách sử dụng và so sánh hiệu suất.</li>
+</ul></description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 4 - LUỒNG I/O VÀ FILE</title>
+      <link>http://localhost:1313/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/markdown-syntax/</guid>
+      
+        <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 3 - CẤU TRÚC ĐIỀU KHIỂN</title>
+      <link>http://localhost:1313/post/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/rich-content/</guid>
+      
+        <description>A brief description of Hugo Shortcodes</description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 2 - CÁC KIỂU DỮ LIỆU VÀ TOÁN TỬ</title>
+      <link>http://localhost:1313/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/placeholder-text/</guid>
+      
+        <description>Lorem Ipsum Dolor Si Amet</description>
+      
+    </item>
+    
+    <item>
+      <title>BÀI 1 - GIỚI THIỆU VỀ JAVA</title>
+      <link>http://localhost:1313/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/emoji-support/</guid>
+      
+        <description>Guide to emoji usage in Hugo</description>
+      
+    </item>
+    
+    <item>
+      <title>PHỤ LỤC VỀ KHÓA HỌC JAVA</title>
+      <link>http://localhost:1313/post/math-typesetting/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/math-typesetting/</guid>
+      
+        <description>A brief guide to setup KaTeX</description>
+      
+    </item>
+    
+    <item>
+      <title>TỔNG KẾT</title>
+      <link>http://localhost:1313/post/image-test/</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/image-test/</guid>
+      
+        <description>Guide to Thumbnails in Hugo</description>
+      
+    </item>
+    
+  </channel>
+</rss>

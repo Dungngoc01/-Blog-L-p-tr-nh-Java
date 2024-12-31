@@ -1,0 +1,42 @@
+portfolioitems:
+  # portfolio category
+  - title: Các dự án từng tham gia
+    description: ''
+    portfolioitem:
+      - name: Dự án web bán vé xem phim
+        image: '/images/portfolio/duanbanvexemphim.png'
+        link: https://cyberlearn.vn/wp-content/uploads/2019/02/du-an-2-new.png
+        linktext: 'Tham quan website'
+        description: 'Dự án bán vé xem phim là một hệ thống trực tuyến giúp khách hàng dễ dàng đặt vé xem phim tại các rạp. Mục tiêu chính của dự án là cung cấp trải nghiệm tiện lợi và nhanh chóng, từ việc tra cứu lịch chiếu, lựa chọn ghế ngồi, đến thanh toán trực tuyến.'
+        tags:
+          - muavexemphim
+          - phimchieurap
+        status: 'Finished'
+        start: '2024'
+        end: '2024'
+        authors:
+          - bihandsome
+          - trungdung01042003
+      - name: Dự án web bán trái cây
+        image: '/images/portfolio/duanwebbantraicay.png'
+        link: https://topcode.vn/FilesUpload/CodeUpload/do-an-du-an-tot-nghiep-spring-boot-fpt-polytechnic-word-slide-sql-151531.jpg
+        description: 'Dự án web bán trái cây là một nền tảng trực tuyến giúp kết nối các nhà cung cấp trái cây tươi với người tiêu dùng, mang đến sự tiện lợi và đa dạng trong việc mua sắm thực phẩm sạch.Cung cấp một kênh mua sắm hiện đại, dễ sử dụng, giúp khách hàng tìm kiếm, chọn lựa và đặt mua các loại trái cây tươi ngon từ nhiều nhà cung cấp uy tín.'
+        linktext: 'Tham quan website'
+        status: 'Finished'
+        start: '2023'
+        end: '2024'
+        tags:
+          - traicay
+          - Greeny
+      - name: Dự án web bán quần áo
+        image: '/images/portfolio/duanwebbanquanao.png'
+        link: https://codedoan.com/wp-content/uploads/2024/05/Screenshot-2024-05-28-140122.jpg
+        linktext: 'Tham quan website'
+        status: 'Finished'
+        start: '2023'
+        end: '2022'
+        description: 'Dự án web bán quần áo là một nền tảng thương mại điện tử hỗ trợ các cửa hàng thời trang giới thiệu và bán sản phẩm của mình trực tuyến. Hệ thống cung cấp cho người dùng trải nghiệm mua sắm thuận tiện, hiện đại, với nhiều tùy chọn phong phú về sản phẩm và thương hiệu.Tạo ra một kênh mua sắm thời trang trực tuyến chuyên nghiệp, đáp ứng nhu cầu của khách hàng và tăng doanh thu cho các nhà bán lẻ.'
+        tags:
+          - shopquanao
+          - webbanquanao
+  

@@ -1,0 +1,48 @@
+  [[main]]
+  name = "TRANG CHỦ"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "BÀI VIẾT"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[main]]
+  name = "DANH MỤC DỰ ÁN"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+
+  [[main]]
+  name = "THÀNH TÍCH"
+  weight = 400
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "CHỨNG CHỈ"
+  weight = 510
+  identifier = "certifications"
+  url = "/certifications/"
+  parent = "accomplishments"  
+
+  [[main]]
+  name = "VỀ TÔI"
+  weight = 600
+  identifier = "about"
+  url = "/about/"
+
+   [[main]]
+  name = "LIÊN HỆ"
+  weight = 700
+  identifier = "Contact"
+  url = "/Contact/"
+
+  [[footer]]
+  name = "about"
+  weight = 1
+  identifier = "imprint"
+  url = "/imprint/"
